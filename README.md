@@ -1,2 +1,4 @@
 # dailyprogrammer
-Programming Challenges (mostly from the dailyprogrammer subreddit and other places)
+Programming Challenges from
+* Daily Programmer subreddit
+

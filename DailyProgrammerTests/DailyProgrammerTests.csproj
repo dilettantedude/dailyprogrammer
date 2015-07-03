@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="E220_Mange_Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="E218_Palindromic_Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DailyProgrammer\DailyProgrammer.csproj">

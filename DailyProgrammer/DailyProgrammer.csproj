@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="E218_PalindromicNumbers.cs" />
     <Compile Include="E220_Mangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
